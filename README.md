@@ -1,5 +1,5 @@
 # ch11
-Public class Example5_4{
+Public class Example5_5{
  Public static void main(String[] args); {
 
    StringBuffer str= new stringBuffer("hello");
